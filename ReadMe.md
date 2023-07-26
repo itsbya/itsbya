@@ -1,5 +1,5 @@
 # 💫 About Me:
-| Graduando em análise e desenvolvimento de sistemas<br>| Estou a procura de um estágio<br>| Aprendendo desenvolvimento Front end<br>| Apaixonada por esse universo<br>| Pretendo aprender mobile<br>
+🧠 Graduando em análise e desenvolvimento de sistemas<br>🔎 Estou a procura de um estágio<br>👩🏾‍💻 Aprendendo desenvolvimento Front end<br>❤️‍🔥 Apaixonada por esse universo<br>📲 Pretendo aprender mobile<br>
 
 
 ## 🌐 Socials:
