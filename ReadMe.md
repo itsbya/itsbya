@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Ana+Beatriz;Tenho+23+anos;Graduando+em+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem+vindx!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Ana+Beatriz;Tenho+24+anos;Graduando+em+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem+vindx!+:%29)](https://git.io/typing-svg)
 
 # Sobre mim :
 🔎 Estou a procura de um estágio <br>👩🏾‍💻 Aprendendo desenvolvimento Front end<br>❤️‍🔥 Apaixonada por esse universo<br>📲 Pretendo aprender mobile<br>
